@@ -1,7 +1,7 @@
 # Fractured Frost: Procedural Ice Destruction Objects
 
 ## Project Introduction
-The theme of this project revolves around the **transformation of natural elements**, focusing on the creation and procedural destruction of ice objects in a virtual environment. By utilizing **Infinigen's procedural generation techniques**, the project crafts intricate and photorealistic ice models and integrates them into **Houdini** for spectacular visual effects that simulate realistic ice destruction. This pipeline combines nature-inspired procedural modeling with cutting-edge simulation techniques, emphasizing themes of **fragility**, **force**, and **transience** in nature.
+The theme of this project revolves around the **transformation of natural elements**, focusing on the creation and procedural destruction of ice objects in a virtual environment. By utilizing **Infinigen's procedural generation techniques**, the project crafts intricate and photorealistic ice models and integrates them into **Houdini** for spectacular visual effects that simulate realistic ice destruction. 
 
 ## Overview
 This project develops a pipeline that:
