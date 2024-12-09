@@ -59,7 +59,7 @@ Outcome:
 ## Milestone 3: Adding the VFX effects throguh Houdini 
 The generated assets were successfully imported into Houdini, where complex destruction simulations were set up. These simulations included scenarios such as ice shattering under force, enhanced by advanced particle systems, lighting, and material shaders. High-quality renders of these effects were produced, showcasing the visual realism and dynamic interactions of the assets.
 
-Outcome:
+
 ![vfx](video1132651796.gif)
 
 
