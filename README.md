@@ -39,12 +39,8 @@ Language Model Integration: Utilize language models to automate the creation of 
 
 
 ## Milestone 1: Setting Up the PCG System with Basic Object Placement
-Study Infinigen's code and develop a PCG system based on it to place objects within a 3D scene.
-Tasks:
-Read papers to understand the prinnciples and genrated objects. 
-
-Modified and expand the existing code to procedurally generate a greater variety of plants and animals.
-Deliverable: A procedurally generated outdoor scene populated with various plants, animals, and objects in randomized, realistic placements.
+Studied Infinigen's code and developed a PCG system based on it to place objects within a 3D scene.
+Read papers to understand the prinnciples and genrated objects. Modified and expand the existing code to procedurally generate a greater variety of plants and animals.
 
 
 
@@ -52,24 +48,39 @@ Deliverable: A procedurally generated outdoor scene populated with various plant
 Python scripts were developed to procedurally generate new assets based on customizable parameters. These scripts were designed to create variations of existing models by altering attributes such as size, texture, and geometry. Rigorous testing ensured the generated assets were compatible with the rest of the pipeline and met high standards of quality.
 
 Outcome:
-![apple]()
+![apple](blender_apple.png)
 
-![star]()
+![star](blender_star.png)
 
 
 ## Milestone 3: Adding the VFX effects throguh Houdini 
 The generated assets were successfully imported into Houdini, where complex destruction simulations were set up. These simulations included scenarios such as ice shattering under force, enhanced by advanced particle systems, lighting, and material shaders. High-quality renders of these effects were produced, showcasing the visual realism and dynamic interactions of the assets.
 
 Outcome:
-![vfx]()
+![vfx](video1132651796.gif)
 
 
+## Final Presentation
+https://docs.google.com/presentation/d/14sXtjkUZFXSBM1hpwnsDEF9ewEJZqxyJ7Fv0qX9AlGg/edit#slide=id.p 
 
 
 ## Potential Applications
+Film and Animation: Utilize the pipeline to create visually stunning ice destruction scenes, enhancing narratives with realistic environmental interactions.
 
+Gaming: Integrate destructible ice environments into games, allowing players to interact with dynamic scenes and solve puzzles based on material properties.
 
 
 ## Reference 
+- Infinigen Project: https://infinigen.org
+
+- Raistrick, A., Lipson, L., Ma, Z., Mei, L., Wang, M., Zuo, Y., Kayan, K., Wen, H., Han, B., Wang, Y., Newell, A., Law, H., Goyal, A., Yang, K., & Deng, J. (2023). [Infinite Photorealistic Worlds using Procedural Generation](https://arxiv.org/abs/2306.09310). *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 12630–12641.
+
+- Raistrick, A., Mei, L., Kayan, K., Yan, D., Zuo, Y., Han, B., Wen, H., Parakh, M., Alexandropoulos, S., Lipson, L., Ma, Z., & Deng, J. (2024). [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://arxiv.org/abs/2406.11824). *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 21783–21794.
+
+
+- Houdini Documentation: https://www.sidefx.com/docs/houdini/
+
+- Blender: https://www.blender.org
+
 
 
