@@ -47,7 +47,7 @@ Language Model Integration: Utilize language models to automate the creation of 
 Read papers to understand the prinnciples and genrated objects. Modified and expand the existing code to procedurally generate a greater variety of objects.
 
 
-## Milestone 2: Wrtiing python scripts to create assets 
+## Milestone 2: Writing python scripts to create assets 
 Python scripts were developed to procedurally generate new assets based on customizable parameters. These scripts were designed to create variations of existing models by altering attributes such as size, texture, and geometry. Rigorous testing ensured the generated assets were compatible with the rest of the pipeline and met high standards of quality.
 
 Outcome:
