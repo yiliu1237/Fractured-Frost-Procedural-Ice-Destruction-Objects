@@ -43,13 +43,11 @@ Language Model Integration: Utilize language models to automate the creation of 
 
 
 
-## Milestone 1: Setting Up the PCG System with Basic Object Placement
-Studied Infinigen's code and developed a PCG system based on it to place objects within a 3D scene.
-Read papers to understand the prinnciples and genrated objects. Modified and expand the existing code to procedurally generate a greater variety of plants and animals.
+## Milestone 1: Paper Review and Read Existing Codes of infiniGen
+Read papers to understand the prinnciples and genrated objects. Modified and expand the existing code to procedurally generate a greater variety of objects.
 
 
-
-## Milestone 2: Wrtiing python scripts to create new assets 
+## Milestone 2: Wrtiing python scripts to create assets 
 Python scripts were developed to procedurally generate new assets based on customizable parameters. These scripts were designed to create variations of existing models by altering attributes such as size, texture, and geometry. Rigorous testing ensured the generated assets were compatible with the rest of the pipeline and met high standards of quality.
 
 Outcome:
@@ -86,6 +84,4 @@ Gaming: Integrate destructible ice environments into games, allowing players to 
 - Houdini Documentation: https://www.sidefx.com/docs/houdini/
 
 - Blender: https://www.blender.org
-
-
 
