@@ -28,7 +28,12 @@ This project develops a pipeline that:
 
 
 ### Results
-Examples of rendered outputs showcasing the final ice destruction effects.
+
+![rendered_img1](rendered1.png)
+
+![rendered_img2](brendered2.png)
+
+![rendered_img3](rendered3.png)
 
 
 ### Future Work
